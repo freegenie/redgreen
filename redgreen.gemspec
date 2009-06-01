@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{freegenie-redgreen}
-  s.version = "0.1.3"
+  s.version = "0.1.4"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Pat Eyler", "Chris Wanstrath", "Luke Pearce"]
-  s.date = %q{2009-04-06}
+  s.date = %q{2009-06-01}
   s.default_executable = %q{rg}
   s.description = %q{freegenie-redgreen colourises windows console output for tests.  This version works with ZenTest 4.0.0, autotest, snarl, XP and Vista.  Please see the README file for setup or issues with Snarl.}
   s.email = %q{freegenie@gmail.com}
